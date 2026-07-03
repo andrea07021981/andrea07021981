@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👩🏻‍💻 Working as a Mobile Engineering Manager at [RBC](https://www.rbc.com/)<br>👩🏻‍🎓 Studied Computer Science at the University of Udine (Italy)<br>⚡ Soccer player and Muay Thai<br>❤️ Love learning tech books and build fun projects at home with Arduino<br>💭 Currently focused on KMP and Compose multiplatform 
+👩🏻‍💻 Working as a Director of Engineering at [RBC](https://www.rbc.com/)<br>👩🏻‍🎓 Studied Computer Science at the University of Udine (Italy)<br>⚡ Soccer player and Muay Thai<br>❤️ Love learning tech books and build fun projects at home with Arduino<br>💭 Currently focused on KMP and Compose multiplatform 
 
 
 ## 🌐 Socials:
